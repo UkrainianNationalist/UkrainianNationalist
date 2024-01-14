@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @UkrainianNationalist
+- 👋 Hi, I’m @UkrainianNationalist;
+- 🔒 I love cryptography and computer science;
+- 🔑 I believe that strong cryptography helps humanity.
